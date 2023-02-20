@@ -80,7 +80,7 @@ This is a list of packages that are used in this project.
   ```
 
 ### Screenshots
-![pr](img\pr.png)
+![pr](img/pr.png)
 
 <p align="center">Example of web-graph with parameters from usage examples</p>
 
@@ -100,13 +100,13 @@ $$
 ### Properties of our web-graph
 
 #### 1 Rule of six handshakes
-![handshakes](img\handshakes.png)
+![handshakes](img/handshakes.png)
 
 #### 2 Sparseness
-![sparseness](img\sparseness.png)
+![sparseness](img/sparseness.png)
 
 #### 3 Probability that the vertex of the graph has degree _d_
-![probability](img\probability.png)
+![probability](img/probability.png)
 
 
 ## **References**
